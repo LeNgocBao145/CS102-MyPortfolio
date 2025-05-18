@@ -27,16 +27,16 @@ type SocialLink = {
   link: string
 }
 
-export const EMAIL = ''
+export const EMAIL = 'himagito@gmail.com'
 
-export const WEB_TITLE = 'Name - Personal Website'
+export const WEB_TITLE = 'LE DUC NGOC BAO - Personal Website'
 export const WEB_DESCRIPTION =
   'A personal website showcasing my work and projects.'
-export const FOOTER_COPYRIGHT = '© 2025 Nguyen Van B.'
-export const FOOTER_LINK = 'https://github.com/username/'
+export const FOOTER_COPYRIGHT = '© 2025 LE DUC NGOC BAO.'
+export const FOOTER_LINK = 'https://github.com/lengocbao145/'
 
-export const NAME = 'Nguyen Van B'
-export const JOB_TITLE = 'NASA Frontend Intern'
+export const NAME = 'LE DUC NGOC BAO'
+export const JOB_TITLE = 'DevOps Engineer'
 export const DESCRIPTION =
   'I am a passionate designer and developer with a focus on creating beautiful and functional user interfaces. I have experience in design engineering, front-end development, and product design. I love to explore the intersection of design and technology, and I am always looking for new challenges to tackle.'
 
@@ -99,6 +99,6 @@ export const BLOG_POSTS: BlogPost[] = [
 export const SOCIAL_LINKS: SocialLink[] = [
   {
     label: 'GitHub',
-    link: 'https://github.com/github',
+    link: 'https://github.com/lengocbao145/',
   },
 ]
